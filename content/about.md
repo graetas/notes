@@ -1,0 +1,1 @@
+hi! my name is Greta and this is my website, welcome. I've set up this space to act as a mental dumping ground and resource for myself and others. 

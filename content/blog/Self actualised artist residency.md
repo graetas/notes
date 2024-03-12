@@ -1,12 +1,9 @@
-
 ---
 title: Self actualised artist residency
 draft: false
-tags:
-  - 
-date:
+tags: 
+date: 2024-03-12T13:27:00
 ---
-
 # Proposal
 A week long artist residency with friends (self funded) a few hours from Sydney, where we can each focus on our own projects or collaborate as desired. Testing a theory of communal living and reconnection. 
 
@@ -17,14 +14,12 @@ Each person sets their own schedule, however each day there will be a shared mea
 Communal evening meals will be shared and everyone is expected to attend (or at least show their face). 
 
 The last day will involve a "exhibition". Each person can choose to share their work from the week (or not), either by displaying, performing, projecting or reading their work (or any other medium possible). 
-
 ## The "art"
 Everyone is free to decide what they want to create or explore in this time. You are not required to share what you're working on, however we aim to create a safe space where everyone should feel comfortable sharing their thoughts and work. We also encourage brainstorming and working together where possible/relevant. 
 
 No critique unless directly asked for, and no beta-spraying (for lack of a better word) let everyone figure out their work at their own pace. 
 
 Explorations in new mediums are encouraged, collaboration with others focussing on different mediums, and sharing of resources and ideas (with consent). 
-
 ## Details
 
 ### The space

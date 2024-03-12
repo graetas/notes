@@ -1,12 +1,11 @@
-```
+
 ---
 title: Self actualised artist residency
-draft: true
+draft: false
 tags:
   - 
 date:
 ---
-```
 
 ## Proposal
 A week long artist residency with friends (self funded) a few hours from Sydney, where we can each focus on our own projects or collaborate as desired. Testing a theory of communal living and reconnection. 

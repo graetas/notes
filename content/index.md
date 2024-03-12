@@ -1,8 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-This is a bit of test text.
+Hi! This is still a work in progress! Expect it to grow and change, this is just a second brain or "digital garden".

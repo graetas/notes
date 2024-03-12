@@ -31,6 +31,9 @@ Communal kitchen and pantry, unless labelled (though all food is encouraged to b
 
 Communal areas are encouraged to be quiet or thoughtful spaces unless agreed upon by everyone in them. Quiet is the default, music is welcome if agreed upon. 
 
+### The "rules"
+All house rules are agreed upon by the group, anyone can suggest rules but also anyone can veto them. To be determined on the first day and amended as required.
+
 ### Technology
 Technology use is discouraged, however depending on the medium this is obviously not strict. The house internet will be turned off, and everyone is encouraged to leave their phones in a central location on do not disturb unless needed (obviously free to use/check in an emergency). 
 
